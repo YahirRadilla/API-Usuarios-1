@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Luis Herrera",
+      "email": "luis.herrera@example.com",
+      "role": "moderator",
+      "isActive": true,
+      "registrationDate": "2026-02-20"
+    },
+    {
+      "id": 2,
+      "name": "María López",
+      "email": "maria.lopez@example.com",
+      "role": "editor",
+      "isActive": true,
+      "registrationDate": "2026-02-01"
+    },
+    {
+      "id": 3,
+      "name": "Carlos Ramírez",
+      "email": "carlos.ramirez@example.com",
+      "role": "user",
+      "isActive": false,
+      "registrationDate": "2025-12-20"
+    },
+    {
+      "id": 4,
+      "name": "Ana Torres",
+      "email": "ana.torres@example.com",
+      "role": "user",
+      "isActive": true,
+      "registrationDate": "2026-02-10"
+    },
+    {
+      "id": 5,
+      "name": "Javier Hernandez",
+      "email": "javier.hernandez@example.com",
+      "role": "moderator",
+      "isActive": true,
+      "registrationDate": "2026-02-20"
+    },
+    {
+      "id": 6,
+      "name": "Luis Herrero",
+      "email": "luis.herrera@example.com",
+      "role": "moderator",
+      "isActive": true,
+      "registrationDate": "2026-02-20"
+    }
+  ]
+}
